@@ -38,5 +38,5 @@ TODO questions about what their specific request is
 
 ## Authentication
 
-1. What happens when you call an endpoint without the API key? (status code): anauthorised
-2. Where do you set the API key value for Docker Compose? (file name): 
+1. What happens when you call an endpoint without the API key? (status code): 401
+2. Where do you set the API key value for Docker Compose? (file name): .nv.docker.secret.
